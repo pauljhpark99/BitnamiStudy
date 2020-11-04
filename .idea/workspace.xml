@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="138882bf-3ab6-4f99-be46-1bd2de278a42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i2oe8aY6G4VFFIp5nR3BNqa9ic" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs" />
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs\phpjs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs\JavaScript" />
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs\phpjs" />
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs" />
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs\html" />
+      <recent name="C:\Bitnami\wampstack-7.4.10-0\apache2\htdocs\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138882bf-3ab6-4f99-be46-1bd2de278a42" name="Default Changelist" comment="" />
+      <created>1601115140827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601115140827</updated>
+      <workItem from="1601115142030" duration="4804000" />
+      <workItem from="1601120003096" duration="127000" />
+      <workItem from="1601120244926" duration="17000" />
+      <workItem from="1601120407294" duration="40000" />
+      <workItem from="1601120457256" duration="7426000" />
+      <workItem from="1601168029204" duration="3284000" />
+      <workItem from="1601178188071" duration="3493000" />
+      <workItem from="1601198794013" duration="8405000" />
+      <workItem from="1601258554859" duration="4144000" />
+      <workItem from="1601276300542" duration="610000" />
+      <workItem from="1601859211197" duration="1903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="67" key="#CLI_Interpreters" timestamp="1601123462495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="67" key="#CLI_Interpreters/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601123462495" />
+    <state x="467" y="54" key="#PHP" timestamp="1601261473436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="54" key="#PHP/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601261473436" />
+    <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1601123446988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="166" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601123446988" />
+    <state x="602" y="335" key="NewPhpFileDialog" timestamp="1601206586685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="335" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601206586685" />
+    <state x="-6" y="0" width="656" height="830" key="dock-window-1" timestamp="1601169392898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="656" height="830" key="dock-window-1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1601169392898" />
+  </component>
+</project>
